@@ -1,7 +1,7 @@
 ↩️ Importar Mundos no Minecraft Educacional
 1. Abra o Minecraft Educacional.
 2. No menu principal, clique em "Importar".
-3. Selecione o arquivo .mcworld do mundo que deseja importar (disponível nas pastas /Aulas Prontas ou /Repositório dos Alunos).
+3. Selecione o arquivo .mcworld do mundo que deseja importar (disponível nas pastas /Aulas Prontas ou /Estudo de Caso - Repositório dos Alunos).
 
 🚀 Objetivos do Projeto
 Este projeto foi desenvolvido para:
